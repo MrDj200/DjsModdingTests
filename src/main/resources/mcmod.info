@@ -1,0 +1,16 @@
+[
+{
+  "modid": "djstests",
+  "name": "Test Mod",
+  "description": "Dj's TestMod. Multiblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dj"],
+  "credits": "My mum and Dad I guess",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
